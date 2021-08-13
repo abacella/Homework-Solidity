@@ -21,6 +21,8 @@ Everytime you hit the buttoms to build the contract and to deposit you will need
 ![Alt Text](/Screenshot/21.png)
 ![Alt Text](/Screenshot/22.png)
 ![Alt Text](/Screenshot/23.png)
+
+Contract deployed in the Local Network
 ![Alt Text](/Screenshot/24.png)
 
 Contract deployed in the Ropsten Network 0x373acb8f8b84ac4aa99b52096a897e37d0fc1dd2
@@ -47,6 +49,8 @@ Everytime you hit the buttoms to build the contract and to deposit it you will n
 
 ![Alt Text](/Screenshot/12.png)
 ![Alt Text](/Screenshot/13.png)
+
+Contract deployed in the Local Network
 ![Alt Text](/Screenshot/14.png)
 
 Contract deployed in the Ropsten Network 0x76a9a751357bb10043ba860863cbcc21c2493889
