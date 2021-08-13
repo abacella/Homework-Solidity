@@ -16,8 +16,8 @@ The second one is to check is there is any balance left. If everything went righ
 
 Everytime you hot the buttoms to build the contract and to deposit you will need to confirm the transaction in the Metamask wallet.
 
-![Alt Text](/Screenshot/11.png)
-![Alt Text](/Screenshot/12.png)
+![Alt Text](/Screenshot/21.png)
+![Alt Text](/Screenshot/22.png)
 ![Alt Text](/Screenshot/23.png)
 ![Alt Text](/Screenshot/24.png)
 
@@ -43,8 +43,8 @@ The second one is to check is there is any balance left. If everything went righ
 
 Everytime you hot the buttoms to build the contract and to deposit you will need to confirm the transaction in the Metamask wallet.
 
-![Alt Text](/Screenshot/21.png)
-![Alt Text](/Screenshot/22.png)
+![Alt Text](/Screenshot/11.png)
+![Alt Text](/Screenshot/12.png)
 ![Alt Text](/Screenshot/13.png)
 ![Alt Text](/Screenshot/14.png)
 
