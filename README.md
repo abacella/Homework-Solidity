@@ -18,8 +18,8 @@ Everytime you hot the buttoms to build the contract and to deposit you will need
 
 ![Alt Text](/Screenshot/11.png)
 ![Alt Text](/Screenshot/12.png)
-![Alt Text](/Screenshot/13.png)
-![Alt Text](/Screenshot/14.png)
+![Alt Text](/Screenshot/23.png)
+![Alt Text](/Screenshot/24.png)
 
 Contract deployed in the Ropsten Network 0x373acb8f8b84ac4aa99b52096a897e37d0fc1dd2
 ![Alt Text](/Screenshot/15.png)
@@ -45,8 +45,8 @@ Everytime you hot the buttoms to build the contract and to deposit you will need
 
 ![Alt Text](/Screenshot/21.png)
 ![Alt Text](/Screenshot/22.png)
-![Alt Text](/Screenshot/23.png)
-![Alt Text](/Screenshot/24.png)
+![Alt Text](/Screenshot/13.png)
+![Alt Text](/Screenshot/14.png)
 
 Contract deployed in the Ropsten Network 0x76a9a751357bb10043ba860863cbcc21c2493889
 ![Alt Text](/Screenshot/25.png)
