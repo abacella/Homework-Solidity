@@ -61,5 +61,5 @@ Contract deployed in the Ropsten Network 0x76a9a751357bb10043ba860863cbcc21c2493
 This contract gets a certain value, splits the value by 4 and alow one transfer of the splitted value per year until there is no balance
 - Write the address of the account and push the distribute buttom to transfer the value for the year. If the value has already been trasnfered an error message is sent.
 - There is a security buttom to stop any future transaction
-- 
+-
 Contract deployed in the Ropsten Network 0xE8e02C5A99d4318451Ec5eBd1767B7aC29fbAD01
